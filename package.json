@@ -1,0 +1,28 @@
+{
+
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "node-red": {
+    "nodes": {
+      "taiponrock": "node.js"
+    },
+  "description": "my first node red node",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenLazregAhmed/node-red-contrib-taiponrock.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "ben lazreg ahmed",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BenLazregAhmed/node-red-contrib-taiponrock/issues"
+  },
+  "homepage": "https://github.com/BenLazregAhmed/node-red-contrib-taiponrock#readme"
+}
+}
