@@ -1,6 +1,6 @@
 {
 
-  "name": "red-contrib-taiponrock-by-ahmed",
+  "name": "node-red-contrib-taiponrock-by-ahmed",
   "version": "1.0.0",
   "node-red": {
     "nodes": {
